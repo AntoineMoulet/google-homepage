@@ -1,0 +1,26 @@
+.logo {
+    display: block;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    height: 28px;
+    margin-top: 60px;
+    padding-right: 50px;
+    border-radius: 4px;
+    background-image: "https://img.generation-nt.com/google-micro-logo_0096006401628319.jpg";
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+}
+
+input:focus {
+    outline: none;
+}
+
+form {
+
+}
